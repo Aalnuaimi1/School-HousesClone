@@ -12,6 +12,7 @@ struct FalconPage: View {
         
         ZStack{
             
+            
             Rectangle()
                 .foregroundColor(.blue)
                 .frame(width: 355, height: 360)
